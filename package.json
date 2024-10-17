@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/node": "^22.7.6",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "typescript": "^5.5.3",
@@ -17,6 +18,9 @@
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
+    "routes": "^2.1.0",
+    "vite-plugin-next-react-router": "^0.7.1"
   }
 }
